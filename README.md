@@ -1,6 +1,6 @@
 # Web-Scraping-Weather-Forecast :sunny::umbrella:
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Scraping the extended weather forecast from "weather.gov", i.e the official website of the US that provides weather, water, and climate data, forecasts and warnings for the protection of life and property.
 
